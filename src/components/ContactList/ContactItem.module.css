@@ -1,0 +1,16 @@
+p {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.delButton {
+  background-color: #fff;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delButton:hover,
+.delButton:focus {
+  background-color: lightskyblue;
+}
